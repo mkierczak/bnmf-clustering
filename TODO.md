@@ -17,6 +17,7 @@ Below, we list issues encountered when running the code:
 * migrate from GWAS data being read from xls to csv for portability (or add csv handling as alternative)
 * parallelize some tasks, like proxy search. Preferably using `futureverse` for portability and flexibility as well as for it handles random seeds properly in hps environments
 * consider exporting partial results and pausing execution so that parts of the pipeline can be run externally when working on secure environments with limited networking
+* consider refactoring it into a proper R package
 
 ## TODOs
 
@@ -24,3 +25,7 @@ Below, we list issues encountered when running the code:
 * add some basic type checking and validators for inputs
 * add try-catch blocks to handle errors
 * check whether all parameters were pulled out to config.yml 
+
+## Authors
+The following people have in some way been involved/contributed to this fork.
+Marcin Kierczak, Jakub Morze, Clemens Wittenbecher, Kirk Smith, Bengt Sennblad, Payam Emami
