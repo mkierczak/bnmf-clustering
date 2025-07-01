@@ -27,5 +27,11 @@ Below, we list issues encountered when running the code:
 * check whether all parameters were pulled out to config.yml 
 
 ## Authors
-The following people have in some way been involved/contributed to this fork.
-Marcin Kierczak, Jakub Morze, Clemens Wittenbecher, Kirk Smith, Bengt Sennblad, Payam Emami
+The following people have in some way been involved/contributed to this fork:
+
+* Marcin Kierczak
+* Jakub Morze
+* Clemens Wittenbecher
+* Kirk Smith
+* Bengt Sennblad 
+* Payam Emami
