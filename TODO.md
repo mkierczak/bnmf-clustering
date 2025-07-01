@@ -21,7 +21,7 @@ Below, we list issues encountered when running the code:
 
 ## TODOs
 
-* provide proper versioning, presumably using `renv`. Currently `pacman` + `targets::tar_option_set` but no proper versioning and no full reproducibility is guaranteed
+* provide proper versioning, presumably using `renv`. Currently `pacman` + `targets::tar_option_set` are used but no proper versioning and no full reproducibility is guaranteed
 * add some basic type checking and validators for inputs
 * add try-catch blocks to handle errors
 * check whether all parameters were pulled out to config.yml 
