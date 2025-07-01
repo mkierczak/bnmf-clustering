@@ -31,7 +31,7 @@ list(
   tar_target(result, bNMF(config, nonneg_matrix))
 )
 
-### To test rule by rule coment out the list above and uncomment desired rules below ###
+### To test rule by rule comment out the list above and uncomment desired rules below ###
 #config <- yaml::read_yaml('config.yml')
 #secrets <- yaml::read_yaml('secrets.yml')
 #gwas_info <- fetch_gwas_info(config)
